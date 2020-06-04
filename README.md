@@ -4,4 +4,4 @@
 
 - **https://ionicacademy.com/ionic-speech-recognition/**
 - **https://ionicframework.com/docs/native/speech-recognition**
-- **https://www.youtube.com/watch?v=RfK3ReBOLq0**
+- **https://github.com/pbakondy/cordova-plugin-speechrecognition**
