@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { SpeechRecognition } from '@ionic-native/speech-recognition/ngx';
 import { ChangeDetectorRef } from '@angular/core';
 import { Platform } from '@ionic/angular';
-import { Http2ServerRequest } from 'http2';
 
 @Component({
   selector: 'app-home',

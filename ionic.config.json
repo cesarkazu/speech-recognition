@@ -1,5 +1,5 @@
 {
-  "name": "myApp",
+  "name": "speech-recognition",
   "integrations": {
     "cordova": {}
   },
